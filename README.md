@@ -1,7 +1,7 @@
 E-commerce Orders Data Analysis Project 🚀
 
 📄 Project Overview  
-This project explores an E-commerce orders dataset using SQL and Python libraries like pandas, numpy, matplotlib, and seaborn. The analysis covers fundamental to advanced queries, providing insights into customer behavior, sales performance, and product-level statistics.
+This project explores an E-commerce orders dataset using SQL and Python libraries like Pandas, NumPy, Matplotlib, Statistics and Seaborn. The analysis covers fundamental to advanced queries, providing insights into customer behavior, sales performance, and product-level statistics.
 
 🎯 Objectives  
 The key questions solved in this project include:
